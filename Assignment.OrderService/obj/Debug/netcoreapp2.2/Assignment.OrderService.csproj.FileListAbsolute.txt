@@ -1,0 +1,17 @@
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.csproj.CoreCompileInputs.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.AssemblyInfoInputs.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.AssemblyInfo.cs
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\Assignment.OrderService.deps.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\Assignment.OrderService.runtimeconfig.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\Assignment.OrderService.runtimeconfig.dev.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\Assignment.OrderService.dll
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.csprojAssemblyReference.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.RazorAssemblyInfo.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.RazorAssemblyInfo.cs
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.RazorTargetAssemblyInfo.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\bin\Debug\netcoreapp2.2\Assignment.OrderService.pdb
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.dll
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.OrderService\obj\Debug\netcoreapp2.2\Assignment.OrderService.pdb

@@ -1,0 +1,17 @@
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.csproj.CoreCompileInputs.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.AssemblyInfoInputs.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.AssemblyInfo.cs
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\Assignment.UserService.deps.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\Assignment.UserService.runtimeconfig.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\Assignment.UserService.runtimeconfig.dev.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\Assignment.UserService.dll
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.RazorAssemblyInfo.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.RazorAssemblyInfo.cs
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.RazorTargetAssemblyInfo.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\bin\Debug\netcoreapp2.2\Assignment.UserService.pdb
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.dll
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.pdb
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.UserService\obj\Debug\netcoreapp2.2\Assignment.UserService.csprojAssemblyReference.cache

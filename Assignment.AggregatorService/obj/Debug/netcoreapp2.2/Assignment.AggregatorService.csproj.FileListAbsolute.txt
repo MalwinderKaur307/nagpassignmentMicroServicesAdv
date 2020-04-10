@@ -1,0 +1,16 @@
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\appsettings.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\Assignment.AggregatorService.deps.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\Assignment.AggregatorService.runtimeconfig.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\Assignment.AggregatorService.runtimeconfig.dev.json
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\Assignment.AggregatorService.dll
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.csproj.CoreCompileInputs.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.RazorAssemblyInfo.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.RazorAssemblyInfo.cs
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.AssemblyInfoInputs.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.AssemblyInfo.cs
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.RazorTargetAssemblyInfo.cache
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\bin\Debug\netcoreapp2.2\Assignment.AggregatorService.pdb
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.dll
+D:\NAGP\Day4\Assignment\Assignment\Assignment\Assignment.AggregatorService\obj\Debug\netcoreapp2.2\Assignment.AggregatorService.pdb
